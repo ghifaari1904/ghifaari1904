@@ -14,13 +14,6 @@
 
 ---
 
-### 📊 GitHub Stats
-![Ghifaari's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghifaari1904&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghifaari1904&layout=compact&theme=radical)
-
----
-
 ### 📫 Contact Me
-- Email: emailkamu@gmail.com
-- LinkedIn: [nama kamu](https://linkedin.com/in/username)
+- Email: mghifaari123@gmail.com
+- LinkedIn: [Muhammad Ghifaari](https://www.linkedin.com/in/muhammad-ghifaari-9aa60522a?utm_source=share_via&utm_content=profile&utm_medium=member_android)
